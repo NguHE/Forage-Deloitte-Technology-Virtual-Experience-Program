@@ -1,4 +1,4 @@
-# Forage-Deloitte
+# Forage-Deloitte Technology Virtual Experience Program
 
 ## Task 1: Coding
 **Task:** Create an algorithm to unify 2 different data models
